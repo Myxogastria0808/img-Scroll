@@ -23,6 +23,33 @@ div, svg {
   transform:translate(-50%,-50%);
 }
 
-.img {
+.slide1 {
   background-image: url(./footerimage.svg);
+}
+.slide2 {
+  background-image: url(./point03.svg);
+}
+.slide3 {
+  background-image: url(./point04.svg);
+}
+.slide4 {
+  background-image: url(./point05.svg);
+}
+.slide5 {
+  background-image: url(./point06.svg);
+}
+.slide6 {
+  background-image: url(./footerimage.svg);
+}
+.slide7 {
+  background-image: url(./point03.svg);
+}
+.slide8 {
+  background-image: url(./point04.svg);
+}
+.slide9 {
+  background-image: url(./point05.svg);
+}
+.slide10 {
+  background-image: url(./point06.svg);
 }
